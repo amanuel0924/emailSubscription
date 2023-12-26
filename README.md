@@ -1,5 +1,6 @@
 #Forex Information Web App
-This is a web application built with React.js that provides users with daily Foreign Exchange and Crypto Information via email subscription.
+
+This is a web application built with React.js and tailwindcss that provides users with daily Foreign Exchange and Crypto Information via email subscription.
 
 ##Features
 Display of a captivating image related to forex trading.
